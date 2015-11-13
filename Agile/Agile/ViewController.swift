@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  AgileFramework
+//  Agile
 //
 //  Created by Taha Topiwala on 11/12/15.
 //  Copyright © 2015 Taha Topiwala. All rights reserved.

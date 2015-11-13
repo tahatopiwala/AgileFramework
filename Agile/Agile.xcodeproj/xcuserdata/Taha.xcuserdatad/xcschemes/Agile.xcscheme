@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0FD6C2951BF5498A00F4F163"
-               BuildableName = "AgileFramework.app"
-               BlueprintName = "AgileFramework"
-               ReferencedContainer = "container:AgileFramework.xcodeproj">
+               BlueprintIdentifier = "0FD6C2E51BF5897100F4F163"
+               BuildableName = "Agile.app"
+               BlueprintName = "Agile"
+               ReferencedContainer = "container:Agile.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0FD6C2951BF5498A00F4F163"
-            BuildableName = "AgileFramework.app"
-            BlueprintName = "AgileFramework"
-            ReferencedContainer = "container:AgileFramework.xcodeproj">
+            BlueprintIdentifier = "0FD6C2E51BF5897100F4F163"
+            BuildableName = "Agile.app"
+            BlueprintName = "Agile"
+            ReferencedContainer = "container:Agile.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0FD6C2951BF5498A00F4F163"
-            BuildableName = "AgileFramework.app"
-            BlueprintName = "AgileFramework"
-            ReferencedContainer = "container:AgileFramework.xcodeproj">
+            BlueprintIdentifier = "0FD6C2E51BF5897100F4F163"
+            BuildableName = "Agile.app"
+            BlueprintName = "Agile"
+            ReferencedContainer = "container:Agile.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0FD6C2951BF5498A00F4F163"
-            BuildableName = "AgileFramework.app"
-            BlueprintName = "AgileFramework"
-            ReferencedContainer = "container:AgileFramework.xcodeproj">
+            BlueprintIdentifier = "0FD6C2E51BF5897100F4F163"
+            BuildableName = "Agile.app"
+            BlueprintName = "Agile"
+            ReferencedContainer = "container:Agile.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

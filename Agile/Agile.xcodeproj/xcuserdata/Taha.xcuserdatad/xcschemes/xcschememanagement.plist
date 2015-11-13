@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AgileFramework.xcscheme</key>
+		<key>Agile.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>0FD6C2951BF5498A00F4F163</key>
+		<key>0FD6C2E51BF5897100F4F163</key>
 		<dict>
 			<key>primary</key>
 			<true/>
