@@ -8,6 +8,7 @@
 
 import UIKit
 import CoreData
+import Parse
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -16,7 +17,15 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
+        
+        Parse.enableLocalDatastore()
+        
+        Parse.setApplicationId("BLHePwKUJXbjfen4KrliJFHWyFQay14eruRD3yJU", clientKey: "EL8BQkV0kSx9tTYAy1To6quldRgzJAFCtJt1D0Xb")
+        
+        PFAnalytics.trackAppOpenedWithLaunchOptions(launchOptions)
+        
         // Override point for customization after application launch.
+        
         return true
     }
 
